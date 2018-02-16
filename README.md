@@ -35,6 +35,8 @@ After confirming that you have an up to date git repository and a Heroku app cre
 yarn build
 ```
 
+
+
 2. Add and commit all changes to git
 
 3. Push to Heroku
